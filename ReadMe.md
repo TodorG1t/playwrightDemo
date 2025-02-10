@@ -6,7 +6,7 @@ Prerequisites:
 `npm 10.9.2`
 
 
-# Intallation
+# Installation
 ```bash
 npm install
 ```
